@@ -1,0 +1,46 @@
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+  font-family: "Montserrat";
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: blue;
+  border-width: 10px;
+  width: 5%;
+  margin: 30px auto 30px auto;
+}
+.images{
+  padding: auto 50px auto 50px;
+}
+
+.top-container{
+  position: relative;
+  color: #ffc93c;
+}
+.middle-container{
+  background-color: #393b44;
+  padding: 50px 0 20px;
+}
+
+
+
+.service{
+  font-family: 'Motserrat', sans-serif;
+  margin: 10px 130px;
+  text-decoration: none;
+  font-size: 3rem;
+  color: #145374;
+}
+#id{
+  text-align: center;
+}
+#cta{
+  text-align: center;
+}
+.footnote{
+  text-align: center;
+}
